@@ -5,5 +5,6 @@
      www.instagram.com/rajkamal.luv/
 
 - 🏍 I Luv Racing
-- 🌈Try to be a rainbow in someone's cloud
+- 🌈Try to be a rainbow in someone's cloud.
 - 📅Either you run the day or the day runs you.
+- <3 🖤
