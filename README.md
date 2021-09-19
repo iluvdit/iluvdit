@@ -8,3 +8,4 @@
 - 🌈Try to be a rainbow in someone's cloud.
 - 📅Either you run the day or the day runs you.
 - <3 🖤
+- ▶️ https://youtu.be/GQvAhPA394o?t=10
