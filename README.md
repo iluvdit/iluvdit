@@ -2,7 +2,9 @@
 - 👀 I’m Cyber Security Student in VIT Bhopal
 - 🌱 I’m currently learning C++ & PYTHON
 - 📫 How to reach me ...
+-    www.linkedin.com/in/raj-kamal-iluvdit
      www.instagram.com/rajkamal.luv/
+     https://steamcommunity.com/id/iluvdit/
 
 - 🏍 I Luv Racing
 - 🌈Try to be a rainbow in someone's cloud
