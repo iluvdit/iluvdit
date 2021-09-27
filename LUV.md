@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning C++ & PYTHON
 - 📫 How to reach me ...
 -    www.linkedin.com/in/raj-kamal-iluvdit   
--    www.instagram.com/rajkamal.luv/
+-    https://www.instagram.com/iluvdit/
 -    https://steamcommunity.com/id/iluvdit/
+-    https://www.snapchat.com/add/rajkamal.luv?share_id=WqMY8vy0544&locale=en-US
 
 - 🏍 I Luv Racing
 - 🌈Try to be a rainbow in someone's cloud
