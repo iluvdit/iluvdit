@@ -41,7 +41,6 @@ I am passionate about **ethical hacking**, **penetration testing**, and **cyber 
 ### Check out my **TryHackMe Badge**:
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/iluvdit.png)
 
----
 
 ## 💡 **Hacker Mindset:**
 
