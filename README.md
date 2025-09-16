@@ -14,26 +14,11 @@ I am passionate about **ethical hacking**, **penetration testing**, and **cyber 
 
 ---
 
-## 🔥 **What I’m Working On:**
-- **Capture the Flag (CTF)** challenges and hacking competitions
-- Building my **bug bounty hunter** skills
-- Contributing to open-source **cyber security tools**
-- Learning the ins and outs of **network protocols**, **malware analysis**, and **exploit writing**
-
----
-
 ## 💻 **Connect With Me:**
 
 - **[LinkedIn](https://www.linkedin.com/in/raj-kamal-iluvdit)**  
 - **[GitHub](https://github.com/iluvdit)**
 - **[Tryhackme](https://tryhackme.com/p/iluvdit)**
-
----
-
-## 🛠 **Tech Stack:**
-
-- **Languages**: Python, Bash, Poweshell, SQL
-- **Tools**: Hashcat, John, Burp Suite, Metasploit, SQL Map, Wireshark, Tshark, Nmap, Naabu, Hydra, Netcat, Nilto, Amass, FFUF, Maltego and etc..
 
 ---
 
